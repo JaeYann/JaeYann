@@ -12,7 +12,7 @@
 
 
 ## ABOUT ME
-### 🏫 Tianjin University | Software Engineering | Class Of 2028
+### 🏫 JiLing University | Software Engineering | Class Of 2029
 
 <!-- 右侧像素小人 -->
 <img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
