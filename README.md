@@ -1,6 +1,8 @@
 ## ABOUT ME
 ### 🏫 JiLin University | Software Engineering | Class Of 2029
 
+### 🌱 Internship Experience
+
 ### 💻 Connect With Me
 - 📕 RedNote : `JaeYann`
 - 📺 BiliBili : `JaeYann`
