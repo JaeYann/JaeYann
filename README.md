@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=I'm+Hanarokusho,+Agent/Backend+Engineer" alt="Hi"/>
-  <p>
-    <code>🐼 Born 2005.12</code>
-    <code>📍 Now Base in ChangChun.</code>
-  </p>
-</div>
-
 
 ## ABOUT ME
 ### 🏫 JiLing University | Software Engineering | Class Of 2029
@@ -13,7 +5,9 @@
 <!-- 右侧像素小人 -->
 <img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
 
+
 ### 🌱 Internship Experience
+
 
 ### 🤖 Competition Experience
 
@@ -25,12 +19,13 @@
 <img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/IntellijLogo.png" width="130" alt="IntelliJ IDEA" style="margin-left: 8px; margin-top: 10px;" />
 <img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" style="margin-top: 10px;" />
 
+
+
 ### 💻 Connect With Me
+---
 - 📕 RedNote : `JaeYann`
 - 📺 BiliBili : `JaeYann`
 - 📫 E-mail : `525339741@qq.com`
-
-
 
 
 <br><br>
@@ -58,15 +53,13 @@
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
-
-
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">  
   <!-- 第一个链接：邮箱跳转 -->
   <a href="mailto:525339741@qq.com">  
     <!-- 链接里的图片：邮箱徽章 -->
     <img 
-      src="https://img.shields.io/badge/799243133%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      src="https://img.shields.io/badge/525339741%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
       alt="Email"
     >  
   </a>  
