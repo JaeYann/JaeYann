@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=I'm+Hanarokusho,+Agent/Backend+Engineer" alt="Hi"/>
   <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>I'm currently focused on Agent.</strong>
-  </p>
-  <p>
     <code>🐼 Born 2005.12</code>
     <code>📍 Now Base in ChangChun.</code>
   </p>
@@ -20,6 +16,7 @@
 ### 🌱 Internship Experience
 
 ### 🤖 Competition Experience
+
 
 <!-- 三个工具图标，放在徽章下方 -->
 <!-- 三个工具图标：每个 img 单独 align="right"，触发浮动，文字环绕 -->
