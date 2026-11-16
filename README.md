@@ -29,7 +29,7 @@
   
 ### 💻 Connect With Me
 - 📕 RedNote : `JaeYann`
-- 📺 BiliBili : `JaeYann`
+
 - 📫 E-mail : `525339741@qq.com`
 
 
