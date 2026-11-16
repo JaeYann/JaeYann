@@ -14,7 +14,7 @@
 
 
 
- ### 🏫 JiLin University | Software Engineering | Class Of 2029
+ ### 🏫 JiLin University | Class Of 2029
 
 
 
