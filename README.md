@@ -8,7 +8,7 @@
 
 
 
- ### ABOUT ME
+ ### ABOUT  ME
 
 
 
@@ -24,7 +24,9 @@
 
 
 
+
 <img  align="right" src="https://count.getloli.com/get/@JaeYann?theme=gelbooru" alt="gelbooru" />
+
   
   
 ### 💻 Connect With Me
