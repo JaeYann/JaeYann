@@ -14,13 +14,13 @@
 
 
 
- ### 🏫 JiLin University | Class Of 2029
+ ###  JiLin University | Class Of 2029
 
 
 
 
 
- ### 🌱 Internship Experience
+ ###  Internship Experience
 
 
 
@@ -29,10 +29,10 @@
 
   
   
-### 💻 Connect With Me
-- 📕 RedNote : `JaeYann`
 
-- 📫 E-mail : `525339741@qq.com`
+-  RedNote : `JaeYann`
+
+-  E-mail : `525339741@qq.com`
 
 
 <picture>
